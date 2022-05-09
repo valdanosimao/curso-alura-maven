@@ -2,7 +2,7 @@
 #
 ## Entendi as motivações para utilização do Maven
 ## Criar aplicações Java com Maven
-## Conheçi a estrutura de diretórios de uma aplicação Java com Maven
+## Conheci a estrutura de diretórios de uma aplicação Java com Maven
 ## Gerenciei dependências de uma aplicação Java com Maven
 ## Aprendi a realizar o build de uma aplicação Java com Maven
 #
